@@ -26,7 +26,7 @@ anime.timeline({loop:true})
 anime.timeline({loop:false})
 .add({
 	targets:".para",
-	rotate:"2turn",
+	rotate:"1turn",
 	easing:'linear',
 	duration:1100,
 })
