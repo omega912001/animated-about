@@ -28,5 +28,5 @@ anime.timeline({loop:false})
 	targets:".para",
 	rotate:"2turn",
 	easing:'linear',
-	duration:1500,
+	duration:1100,
 })
