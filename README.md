@@ -29,7 +29,7 @@ Contributions to this project are welcome! Feel free to submit bug reports, sugg
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for both personal and commercial purposes. Refer to the LICENSE.md file for more information.
 
 # Author
-[Your Name] - [Your Website/Blog/GitHub Profile]
+[Kajal ]
 
 # Acknowledgments
 - Anime.js developers and contributors for creating the animation library.
